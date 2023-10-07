@@ -1,1 +1,2 @@
 # Traffic Signs Recognition - Tensorflow
+Traffic Signs Recognition is a comprehensive project that utilizes the power of TensorFlow, a popular machine learning framework, to recognize and interpret various traffic signs. With a focus on improving road safety and traffic management, this project aims to develop an intelligent system capable of accurately detecting and classifying traffic signs. By leveraging deep learning techniques and extensive training data, the project strives to achieve high accuracy and efficiency in traffic sign recognition.
